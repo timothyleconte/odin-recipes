@@ -1,1 +1,1 @@
-# odin-recipes
+So this is me editing my first README file. The current project is to setup an incredibly basic website using the html I've learned so far. The skills that I will demonstrate in this project include using html to create links, images, lists, etc. I will also be learning how to commit my projects using git and github. I'll update this once I'm finished with a self reflection.
