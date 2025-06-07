@@ -1,0 +1,49 @@
+body{
+    background-color: maroon;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.list{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+
+}
+
+ol{
+    display: inline-block;
+
+}
+.odin{
+    color:aliceblue;
+    text-align: center;
+}
+
+a:link{
+    color:white;
+    background-color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+a:hover{
+    background: green;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+li{
+    word-wrap:break-word;
+    max-width: 300px;
+    margin: 0.5em;
+}
